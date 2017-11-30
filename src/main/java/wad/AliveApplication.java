@@ -11,14 +11,14 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/omacode/Alive";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/omacode/Alive";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://omaalive.herokuapp.com/";
     }
 }
